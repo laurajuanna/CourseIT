@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CourseIT/static/css/main.c429982c.chunk.css",
+    "main.js": "/CourseIT/static/js/main.905375bb.chunk.js",
+    "main.js.map": "/CourseIT/static/js/main.905375bb.chunk.js.map",
+    "runtime-main.js": "/CourseIT/static/js/runtime-main.92ebecf0.js",
+    "runtime-main.js.map": "/CourseIT/static/js/runtime-main.92ebecf0.js.map",
+    "static/css/2.c7cba60b.chunk.css": "/CourseIT/static/css/2.c7cba60b.chunk.css",
+    "static/js/2.5d4c7329.chunk.js": "/CourseIT/static/js/2.5d4c7329.chunk.js",
+    "static/js/2.5d4c7329.chunk.js.map": "/CourseIT/static/js/2.5d4c7329.chunk.js.map",
+    "index.html": "/CourseIT/index.html",
+    "static/css/2.c7cba60b.chunk.css.map": "/CourseIT/static/css/2.c7cba60b.chunk.css.map",
+    "static/css/main.c429982c.chunk.css.map": "/CourseIT/static/css/main.c429982c.chunk.css.map",
+    "static/js/2.5d4c7329.chunk.js.LICENSE.txt": "/CourseIT/static/js/2.5d4c7329.chunk.js.LICENSE.txt",
+    "static/media/background.7e2be603.png": "/CourseIT/static/media/background.7e2be603.png",
+    "static/media/logoBasic.fb3579e7.svg": "/CourseIT/static/media/logoBasic.fb3579e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ebecf0.js",
+    "static/css/2.c7cba60b.chunk.css",
+    "static/js/2.5d4c7329.chunk.js",
+    "static/css/main.c429982c.chunk.css",
+    "static/js/main.905375bb.chunk.js"
+  ]
+}
