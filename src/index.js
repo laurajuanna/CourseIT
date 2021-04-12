@@ -13,12 +13,13 @@ import 'bootstrap';
 import 'bootstrap/dist/js/bootstrap.js';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 
+
 /*<React.StrictMode>
     <App />
   </React.StrictMode>*/
 
 ReactDOM.render(  
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <Route exact path="/products/:id" component={Product} />
     <Route exact path="/" component={App} />
     <Route exact path="/about" component={About} />
