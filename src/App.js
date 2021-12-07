@@ -85,7 +85,7 @@ function App() {
         </div> 
 
         <hr class="w-100 my-1"/>
-
+        {/* prueba repo */}
         <div className="section my-0">
           <div className={toggleStyle} onClick={toggleD}>
             <h4 className='m-0'>Condicionales y Bucles en JSX</h4>
